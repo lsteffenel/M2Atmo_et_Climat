@@ -21,5 +21,5 @@ Devoirs maison :
 2. [Tentative de prévision du temps](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/Exo2-Regression_meteo.ipynb)
 
 # DEVOIR À RENDRE
-* [Enoncé du devoir](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/Devoir_2023.pdf)
+* [Enoncé du devoir](https://github.com/lsteffenel/M2Atmo_et_Climat/blob/main/Devoir_2023.pdf)
    
