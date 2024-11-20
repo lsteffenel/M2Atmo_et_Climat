@@ -7,7 +7,7 @@ Liste d'exercices :
 4. [Évaluation de modèles](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/04-Evaluation%20des%20modeles.ipynb)
 5. [Regression](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/05-Regression.ipynb)
 
-6. [Perceptron simple](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/06-Simple-Perceptron.ipynb)
+6. [Perceptron simple](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/06-Simple-Perceptron.ipynb){:target="_blank"}
 
 7. [Un DNN avec Keras](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/07-Introduction%20a%20Keras.ipynb)
 8. [CNN sur MNIST](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/08-CNN-MNIST.ipynb)
