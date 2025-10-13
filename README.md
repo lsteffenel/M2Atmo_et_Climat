@@ -1,6 +1,11 @@
 # M2 Climat_et_Atmosphère
 
-Liste d'exercices :
+##Slides du cours : 
+1. [Cours 1](https://github.com/lsteffenel/M2Atmo_et_Climat/blob/main/Cours1_CLIMAT_2025.pdf)
+2. [Cours 2](https://github.com/lsteffenel/M2Atmo_et_Climat/blob/main/Cours2_CLIMAT_2025.pdf)
+3. [Cours 3](https://github.com/lsteffenel/M2Atmo_et_Climat/blob/main/Cours3_CLIMAT_2025.pdf)
+
+##Liste d'exercices :
 1. [Manipulation et description des données Pandas](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/01-Manipulation%20et%20description%20des%20donnees.ipynb)
 2. [Algorithmes de Machine Learning](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/02-Algorithmes%20de%20machine%20learning.ipynb)
 3. [Arbres et Forêts aléatoires](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/03-Arbres%20et%20Forets%20aleatoires-2025.ipynb)
