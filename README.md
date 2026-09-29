@@ -5,6 +5,7 @@
 2. [Cours 2](https://github.com/lsteffenel/M2Atmo_et_Climat/blob/main/Cours2_CLIMAT_2025.pdf)
 3. [Cours 3](https://github.com/lsteffenel/M2Atmo_et_Climat/blob/main/Cours3_CLIMAT_2025.pdf)
 4. [Cours 4](https://github.com/lsteffenel/M2Atmo_et_Climat/blob/main/Cours4_CLIMAT_2025.pdf)
+5. [Cours 5](https://github.com/lsteffenel/M2Atmo_et_Climat/blob/main/Cours5_CLIMAT_2026.pdf)
 
 ## Liste d'exercices :
 1. [Manipulation et description des données Pandas](https://colab.research.google.com/github/lsteffenel/M2Atmo_et_Climat/blob/main/01-Manipulation%20et%20description%20des%20donnees.ipynb)
